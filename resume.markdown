@@ -3,12 +3,13 @@ I am reddy
 
 #Markdown Demo
 
-## Parageaphs
+## Paragraphs
 
 THis is a paragraph
 
 THis is another paragraph.
 
-Headings
+##Headings
 
-THis is a third heading
+###THis is a third heading
+
