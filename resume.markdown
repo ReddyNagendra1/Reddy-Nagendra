@@ -35,4 +35,17 @@ THis is an unnumbered lists.
 ![systemscode](systems.png)
 
 ##Code
+This is a inine 'code'.
 
+##Javascript
+```This is multiline Javascript.
+let test = 1;
+if(test = 1) test = 2;
+```
+
+## Tables 
+
+| Name | Abv | Rate|
+| SQL  | SQL | 6   |
+|JS    | Javascript|8|
+|Java  | Java | 0  |
