@@ -5,9 +5,9 @@ I am reddy
 
 ## Paragraphs
 
-THis is a paragraph
+THis is a paraphrase.
 
-THis is another paragraph.
+THis is another paragraph and praphrase.
 
 Bold and Italics.
 
@@ -21,7 +21,7 @@ Bold and Italics.
 THis is a numbered lists.
 1.This is item one.
 2.THis is item two
-3.THis is item three.
+3.THis is item three and four.
 
 THis is an unnumbered lists.
 -THis is item 1.
