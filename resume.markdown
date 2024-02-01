@@ -1,12 +1,11 @@
 # Reddy
 I am reddy
 
+
 <<<<<<< HEAD
 GitHUb is a bit hard in the initial stage.
 
-## I tried to add but dont know it showing nothing is added
-
-GitHUb is a bit hard in the initial stage.
+okkk lets see.
 =======
 #Markdown Demo
 
@@ -56,4 +55,3 @@ if(test = 1) test = 2;
 | SQL  | SQL | 6   |
 |JS    | Javascript|8|
 |Java  | Java | 0  |
->>>>>>> b82ad7ff059d35c9f58f965cd0344ed0af4b6cce
